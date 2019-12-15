@@ -3,6 +3,18 @@
 **Changelog list**
 
 
+### [0.1.2](https://github.com/peteichuk/changelog/compare/v0.1.1...v0.1.2) (2019-12-15)
+
+
+### Bug Fixes
+
+* **types for CHANGELOG:** Add type for perf (Performance Improvements) ([49707a1](https://github.com/peteichuk/changelog/commit/49707a11b5366505f1a8359e4f04e63d9e29e9bc))
+
+
+### Performance Improvements
+
+* **style:** Add empty line ([b2e098e](https://github.com/peteichuk/changelog/commit/b2e098ec438a1a42dd3aaec80db2257bcb4dd35b))
+
 ### [0.1.1](https://github.com/peteichuk/changelog/compare/v0.1.0...v0.1.1) (2019-12-15)
 
 
