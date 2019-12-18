@@ -1,7 +1,10 @@
 # Changelog
+### [0.1.3](https://github.com/peteichuk/changelog/compare/v0.1.2...v0.1.3) (2019-12-18)
 
-**Changelog list**
 
+### Features
+
+* **Storybook:** Add simple example Storybook ([95f9dc4](https://github.com/peteichuk/changelog/commit/95f9dc4e1d944943657da7c96125b9705fd77349))
 
 ### [0.1.2](https://github.com/peteichuk/changelog/compare/v0.1.1...v0.1.2) (2019-12-15)
 
